@@ -3,7 +3,7 @@ import time
 import pika
 from random import uniform
 
-rabbit_host = 'host'
+rabbit_host = '10.128.0.5'
 rabbit_user = 'perzi'
 rabbit_password = 'r'
 exchange = 'monitoring_measurements'
