@@ -4,9 +4,9 @@ from sys import path
 from os import environ
 import django
 
-rabbit_host = 'host'
-rabbit_user = 'monitoring_user'
-rabbit_password = 'isis2503'
+rabbit_host = '10.128.0.5'
+rabbit_user = 'perzi'
+rabbit_password = 'r'
 exchange = 'monitoring_measurements'
 topics = ['Medery.#.Glucosa']
 
