@@ -4,8 +4,8 @@ import pika
 from random import uniform
 
 rabbit_host = 'host'
-rabbit_user = 'monitoring_user'
-rabbit_password = 'isis2503'
+rabbit_user = 'perzi'
+rabbit_password = 'r'
 exchange = 'monitoring_measurements'
 topic = 'Medery.Rafael.Glucosa'
 
